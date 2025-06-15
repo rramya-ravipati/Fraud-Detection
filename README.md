@@ -18,19 +18,4 @@ Some examples of potential candidates for circular trade networks identified by 
 ![](https://raw.githubusercontent.com/ninadakolekar/fraud-detection/master/example_img2.png)
 ![](https://raw.githubusercontent.com/ninadakolekar/fraud-detection/master/example_img3.png)
 
-# Contributors
-Ninad Akolekar
-
-Faizul Haq
-
-Ayush Pateria
-
-# Guide
-Dr. Sobhan Babu
-
-Associate Professor
-
-Department of Computer Science & Engineering
-
-IIT Hyderabad
 
